@@ -134,13 +134,3 @@ npm i @mui/icons-material
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
-<style>
-.svg {
-	cursor: pointer;
-	filter: invert(.2) sepia(1) saturate(30) hue-rotate(150deg);
-}
-.info {
-	cursor: pointer;
-	filter: invert(.2) sepia(1) saturate(30) hue-rotate(250deg);
-}
-</style>
