@@ -1,7 +1,7 @@
 # Tauri Mobile Test <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="30" height="30" class="svg">
 
 <div align="center">
-<img src="./images/header-mobile.png">
+<img src="./images/header-mobile.png" height=450 width='100%'>
 </div> 
 
 <br>
@@ -115,6 +115,12 @@ npm i @mui/material @emotion/react @emotion/styled
 npm i @mui/icons-material
 ```
 >See both frameworks' instructions for the remaining few steps to incorporate into your project
+
+<br>
+
+<div align="center">
+  <img src="./images/new_app.png" height=600>
+</div> 
 
 <br>
 
