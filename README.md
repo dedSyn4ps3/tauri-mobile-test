@@ -13,7 +13,7 @@ An example application to demonstrate how to create and start building a cross-p
 NOTE: The code contained here is meant to serve as an example for my article on **Medium** (Check it out!)
 
 
-> [Getting Started Using Tauri Mobile](https://medium.com/ed_rutherford_nullreturn)
+> [Getting Started Using Tauri Mobile](https://medium.com/@erutherford_nullreturn)
 
 <br>
 
